@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">586299026575-55tckd13v25mcmnj6u3i90cut9iac7s2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">586299026575</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvqlKE2yvqTDxBvxo8qVzzecenRpWSlys</string>
+    <string name="google_app_id" translatable="false">1:586299026575:android:371dfbe306a524280454fa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvqlKE2yvqTDxBvxo8qVzzecenRpWSlys</string>
+    <string name="google_storage_bucket" translatable="false">test-pusherr.appspot.com</string>
+    <string name="project_id" translatable="false">test-pusherr</string>
+</resources>
